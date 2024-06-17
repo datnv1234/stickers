@@ -1,0 +1,387 @@
+{
+  "StickerPacks": [
+    {
+      "id": 0,
+      "androidPlayStoreLink": "https://play.google.com/store/apps/details?id=com.wa.ai.emojimaker",
+      "iosAppStoreLink": null,
+      "publisherEmail": "datnv@wayfustudio.com",
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 1,
+      "name": "Alpi Powers",
+      "publisher": "Alpi",
+      "publisherWebsite": "https://t.me/addstickers/AruppiPowers",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": [],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/1/01_alpi_aruppi.webp",
+          "imageFileThum": null
+        },
+        {
+          "emojis": [],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/1/02_alpi_aruppi.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": "datnv@wayfustudio.com",
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 2,
+      "name": "Yesterday wo Uttate",
+      "publisher": "Alpi",
+      "publisherWebsite": "https://t.me/addstickers/YesterdayWoUtatte",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": [],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/2/01_yesterday_wo_uttate.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": "datnv@wayfustudio.com",
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 3,
+      "name": "Steins;Gate",
+      "publisher": "Alpi",
+      "publisherWebsite": "https://t.me/addstickers/SteinsAndGate",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": [],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/3/01_steins_gate.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": "datnv@wayfustudio.com",
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 4,
+      "name": "Steins;Gate vol 2",
+      "publisher": "Alpi",
+      "publisherWebsite": "https://t.me/addstickers/SteinsAndGate",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": [],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/4/01_steins_gate.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": "datnv@wayfustudio.com",
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 5,
+      "name": "Isekai Quartet",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😥"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/5/1.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 6,
+      "name": "Isekai Quartet vol 2",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😥"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/6/31.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 7,
+      "name": "Isekai Quartet vol 3",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["👀"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/7/61.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 8,
+      "name": "Monogatari",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/8/31.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 9,
+      "name": "Monogatari vol 2",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["🤔"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/9/62.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 10,
+      "name": "Monogatari vol 3",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["🙌"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/10/1.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 11,
+      "name": "Monogatari vol 4",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/11/91.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 12,
+      "name": "Tsurezure Children",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/12/1.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 13,
+      "name": "JoJo",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/13/1.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 14,
+      "name": "JoJo vol 2",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😥"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/14/21.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 15,
+      "name": "JoJo vol 3",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😅"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/15/41.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 16,
+      "name": "JoJo vol 4",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/16/61.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 17,
+      "name": "JoJo vol 5",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/17/81.webp",
+          "imageFileThum": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "androidPlayStoreLink": null,
+      "iosAppStoreLink": null,
+      "publisherEmail": null,
+      "privacyPolicyWebsite": null,
+      "licenseAgreementWebsite": null,
+      "telegram_url": null,
+      "identifier": 18,
+      "name": "Monogatari vol 5",
+      "publisher": "Brei",
+      "publisherWebsite": "http://t.me/bourros",
+      "animatedStickerPack": false,
+      "stickers": [
+        {
+          "emojis": ["😒"],
+          "imageFile": "https://aruppi.jeluchu.xyz/res/stickers/18/1.webp",
+          "imageFileThum": null
+        }
+      ]
+    }
+  ]
+}
